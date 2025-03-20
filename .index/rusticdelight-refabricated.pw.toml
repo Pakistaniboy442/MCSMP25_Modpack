@@ -1,0 +1,14 @@
+name = "RusticDelight: Refabricated"
+filename = "RusticDelightRefabricated-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/FjW7EHo3/versions/6cPK5hHN/RusticDelightRefabricated-1.0.2.jar"
+hash-format = "sha512"
+hash = "7974379b432d671b8c904a21d801718ad36178ee52e13908ea0491604474b1cbbc7f46d5e43e18cc53cdd60f9fe38d873599a960b99bd24664ca0747373a75e3"
+
+[update]
+[update.modrinth]
+mod-id = "FjW7EHo3"
+version = "6cPK5hHN"

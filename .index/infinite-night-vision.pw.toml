@@ -1,0 +1,14 @@
+name = "Infinite Night Vision"
+filename = "InfiniteNighVision-1.20.1-FABRIC.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Nf2vFbov/versions/8GbMGVCw/InfiniteNighVision-1.20.1-FABRIC.jar"
+hash-format = "sha512"
+hash = "167bcc6b3900a3c2855ada8a158a4a44470a2084e5f249b6619c9d5f0d3724b24671c0375715db8897f03c46de172d3d98cfefab35a7418e084d5ae7d2a98e15"
+
+[update]
+[update.modrinth]
+mod-id = "Nf2vFbov"
+version = "8GbMGVCw"

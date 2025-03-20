@@ -1,0 +1,14 @@
+name = "Epic Knights: Shields Armor and Weapons"
+filename = "[1.20.1-fabric]-Epic-Knights-9.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/L6jvzao4/versions/nagiJ9by/%5B1.20.1-fabric%5D-Epic-Knights-9.19.jar"
+hash-format = "sha512"
+hash = "20bd8dd8dac6410edb71cac203a99b82c1ed10466db3f267d87e4753c4c4966400c27c22246c13c41d5ca5ad8566deb80cd906c1a4482e5fbb9f2ecdaa2d79d0"
+
+[update]
+[update.modrinth]
+mod-id = "L6jvzao4"
+version = "nagiJ9by"

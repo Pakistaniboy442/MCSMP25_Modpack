@@ -1,0 +1,14 @@
+name = "rbasamoyai's Betsy Ross"
+filename = "betsyross-2.0.1+mc.1.20.1-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/QHsVGyjJ/versions/2JcYUGth/betsyross-2.0.1%2Bmc.1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "8d8cc53269399ae1b08da935a9360b923ca7e2868385f1473b0e498c0a4f3a2216033df2374ec2f9a610c1748e72a954be512e34876b98345ae1b77c1eb82143"
+
+[update]
+[update.modrinth]
+mod-id = "QHsVGyjJ"
+version = "2JcYUGth"

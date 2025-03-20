@@ -1,0 +1,14 @@
+name = "Fantasy Armor (Medieval Series)"
+filename = "fantasy_armor-fabric-0.7-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/oVmpjYQ5/versions/MRLvlYOL/fantasy_armor-fabric-0.7-1.20.1.jar"
+hash-format = "sha512"
+hash = "1edeb7a36a7eac905f0ad1554f6908eedc93c0a296135d28f224c78d5adab8ca7b1730d21f1306b67208abe5aae26535a25424fe0335b7b03c62b92a15fe31b1"
+
+[update]
+[update.modrinth]
+mod-id = "oVmpjYQ5"
+version = "MRLvlYOL"
